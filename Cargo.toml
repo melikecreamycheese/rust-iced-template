@@ -1,0 +1,9 @@
+[package]
+name = "main"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.36.2"
+iced = "0.14.0"
+egui = "0.36.2"
